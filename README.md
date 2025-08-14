@@ -43,7 +43,7 @@ DELAY_MS=1000
 
 1.  Clone o repositório:
     ```bash
-    git clone <URL_DO_REPOSITORIO>
+    git clone https://github.com/Adolfo-Machado/Json-Server-TS.git
     cd Json-Server-TS
     ```
 
